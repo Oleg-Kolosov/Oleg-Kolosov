@@ -16,4 +16,5 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=Oleg-Kolosov&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 
+### 📈 Codewars
 <img src='https://www.codewars.com/users/Oleg-Kolosov/badges/large'>
