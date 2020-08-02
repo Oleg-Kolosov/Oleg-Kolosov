@@ -5,6 +5,9 @@
 ### 📘 I’m currently learning NextJs React React Native
 
 ***
+### 🏆 Awards
++ Winner IDT Hackathon Minsk 2019
++ Winner Legal track Imaguru Datathon Minsk 2019
 
 ### 📭 Contacts 
 - **gmail** oleg.churilo.job@gmail.com
