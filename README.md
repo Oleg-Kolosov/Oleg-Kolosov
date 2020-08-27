@@ -22,8 +22,8 @@
 ### 👨‍🎓 For students
 
 ***
-<h4 align='center'>Zoom hover effects</h4>
-+ [Task lives here](https://github.com/Oleg-Kolosov/Image-Zoom-Hover-Effect).
-+ Level: advanced. 
-+ Dificulty: 💪
+<h3 align='center'>Zoom hover effects</h3>.
+#### [Task lives here](https://github.com/Oleg-Kolosov/Image-Zoom-Hover-Effect).
+- Level: advanced. 
+- Dificulty: 💪
 ***
