@@ -23,7 +23,7 @@
 
 ***
 
-#### <h3 align='center'><a href='https://github.com/Oleg-Kolosov/Image-Zoom-Hover-Effect>'Zoom hover effects.</a></h3>
+#### <h3 align="center"><a href="https://github.com/Oleg-Kolosov/Image-Zoom-Hover-Effect">Zoom hover effects</a></h3>
 - Level: advanced. 
 - Dificulty: 💪
 ***
