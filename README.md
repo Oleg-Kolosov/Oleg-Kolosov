@@ -18,3 +18,10 @@
 
 ### 📈 Codewars
 <img src='https://www.codewars.com/users/Oleg-Kolosov/badges/large'>
+
+### For students
+***
+[Task 1: Zoom hover effects](https://github.com/Oleg-Kolosov/Image-Zoom-Hover-Effect). 
++ Level: advanced. 
++ Dificulty: 💪
+***
