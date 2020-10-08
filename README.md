@@ -34,3 +34,6 @@
 
 + <a href="https://github.com/Oleg-Kolosov/CSS-Glowing-Gradient-Border-Effects">Glowing gradient border effects</a>
 
++ <a href="https://github.com/Oleg-Kolosov/CSS3-Creative-Check-List-Custom-Checkbox-using-CSS">Check list with custom checkbox</a>
+
+
