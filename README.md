@@ -24,6 +24,8 @@
 
 + <a href="https://github.com/Oleg-Kolosov/TeachMeSkills-figure">Figures</a>
 
-+ <a href="https://github.com/Oleg-Kolosov/CSS-Responsive-CARD">CSS Responsive CARD</a>
++ <a href="https://github.com/Oleg-Kolosov/CSS-Responsive-CARD">Responsive card</a>
 
-+ <a href="https://github.com/Oleg-Kolosov/Golden-Canon-Grid-for-UI-Design">Golden Canon Grid for UI Design</a>
++ <a href="https://github.com/Oleg-Kolosov/Golden-Canon-Grid-for-UI-Design">Golden canon grid for UI design</a>
+
++ <a href="https://github.com/Oleg-Kolosov/CSS-Neumorphic-Login-Form-Design">Neumorphic login form design</a>
