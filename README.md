@@ -4,7 +4,6 @@
 ### 💻 I’m currently working in [TeachMeSkills](https://teachmeskills.by/) and freelance.
 ### 📘 I’m currently learning NextJs, React.
 
-***
 
 ### 🏆 Awards
 + Winner IDT Hackathon Minsk 2019
