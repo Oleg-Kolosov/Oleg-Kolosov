@@ -21,26 +21,10 @@
 
 ### 👨‍🎓 For students
 
-***
-
 #### <h3 align="center"><a href="https://github.com/Oleg-Kolosov/Image-Zoom-Hover-Effect">Zoom hover effects</a></h3>
-- Level: advanced. 
-- Dificulty: 💪
-
-***
 
 #### <h3 align="center"><a href="https://github.com/Oleg-Kolosov/TeachMeSkills-figure">Figures</a></h3>
-- Level: advanced. 
-- Dificulty: 💪💪💪
-
-***
 
 #### <h3 align="center"><a href="https://github.com/Oleg-Kolosov/CSS-Responsive-CARD">CSS Responsive CARD</a></h3>
-- Level: advanced. 
-- Dificulty: 💪💪💪💪💪
-
-***
 
 #### <h3 align="center"><a href="https://github.com/Oleg-Kolosov/Golden-Canon-Grid-for-UI-Design">Golden Canon Grid for UI Design</a></h3>
-- Level: professional. 
-- Dificulty: 💪💪💪💪💪💪💪💪💪💪
