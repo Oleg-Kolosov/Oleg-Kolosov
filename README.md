@@ -29,3 +29,5 @@
 + <a href="https://github.com/Oleg-Kolosov/Golden-Canon-Grid-for-UI-Design">Golden canon grid for UI design</a>
 
 + <a href="https://github.com/Oleg-Kolosov/CSS-Neumorphic-Login-Form-Design">Neumorphic login form design</a>
+
++ <a href="https://github.com/Oleg-Kolosov/Card-Flip-Animation-using-HTML-and-CSS">Card flip animation</a>
