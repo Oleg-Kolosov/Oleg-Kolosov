@@ -36,4 +36,6 @@
 
 + <a href="https://github.com/Oleg-Kolosov/CSS3-Creative-Check-List-Custom-Checkbox-using-CSS">Check list with custom checkbox</a>
 
++ <a href="https://github.com/Oleg-Kolosov/CSS-Custom-Checkbox-Day-Night-Mode">Custom checkbox day || nigth mode</a>
+
 
