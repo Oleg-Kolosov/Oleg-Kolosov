@@ -31,3 +31,6 @@
 + <a href="https://github.com/Oleg-Kolosov/CSS-Neumorphic-Login-Form-Design">Neumorphic login form design</a>
 
 + <a href="https://github.com/Oleg-Kolosov/Card-Flip-Animation-using-HTML-and-CSS">Card flip animation</a>
+
++ <a href="https://github.com/Oleg-Kolosov/CSS-Glowing-Gradient-Border-Effects">Glowing gradient border effects</a>
+
