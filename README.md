@@ -45,3 +45,7 @@
 + <a href="https://github.com/Oleg-Kolosov/Awesome-Text-Animation-using-HTML-and-CSS">Awesome text animation</a>
 
 + <a href="https://github.com/Oleg-Kolosov/CSS3-Glowing-Gradient-Loader-Ring-Animation-Effects">Gradient loader ring animation</a>
+
++ <a href="https://github.com/Oleg-Kolosov/simple-gamburger">Simple gamburger menu</a>
+
+
