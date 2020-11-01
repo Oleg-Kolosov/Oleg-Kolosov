@@ -48,4 +48,5 @@
 
 + <a href="https://github.com/Oleg-Kolosov/simple-gamburger">Simple gamburger menu</a>
 
++ <a href="https://github.com/Oleg-Kolosov/easy-responsive-webpage">Easy responsive web page</a>
 
