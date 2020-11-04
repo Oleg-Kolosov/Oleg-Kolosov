@@ -50,6 +50,6 @@
 
 + <a href="https://github.com/Oleg-Kolosov/easy-responsive-webpage">Easy responsive web page</a>
 
-💎 ### Advanced Feautures
+### 💎 Advanced Feautures
 
 + <a href="https://github.com/Oleg-Kolosov/fun-with-custom-tags-and-shadow-DOM-Experimantal-">Web components and shadow DOM</a>
