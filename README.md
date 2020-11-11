@@ -50,6 +50,9 @@
 
 + <a href="https://github.com/Oleg-Kolosov/easy-responsive-webpage">Easy responsive web page</a>
 
++ <a href="https://github.com/Oleg-Kolosov/pure-css-tooltip/tree/master">Pure CSS tooltip</a>
+
+
 ### 💎 Advanced Feautures
 
 + <a href="https://github.com/Oleg-Kolosov/fun-with-custom-tags-and-shadow-DOM-Experimantal-">Web components and shadow DOM</a>
