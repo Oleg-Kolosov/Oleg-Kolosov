@@ -52,6 +52,9 @@
 
 + <a href="https://github.com/Oleg-Kolosov/pure-css-tooltip/tree/master">Pure CSS tooltip</a>
 
+### 🔮 Basic JS
+
++ <a href="https://github.com/Oleg-Kolosov/click-counter">Click counter</a>
 
 ### 💎 Advanced Feautures
 
