@@ -56,6 +56,7 @@
 
 + <a href="https://github.com/Oleg-Kolosov/click-counter">Click counter</a>
 + <a href="https://github.com/Oleg-Kolosov/MVC_ToDo">MVC Todo App</a>
++ <a href="https://github.com/Oleg-Kolosov/Color_flipper">Color Flipper</a>
 
 ### 💎 Advanced Feautures
 
