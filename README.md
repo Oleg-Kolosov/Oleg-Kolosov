@@ -19,35 +19,20 @@
 ### 👨‍🎓 Basic CSS
 
 + <a href="https://github.com/Oleg-Kolosov/Image-Zoom-Hover-Effect">Zoom hover effects</a>
-
 + <a href="https://github.com/Oleg-Kolosov/TeachMeSkills-figure">Figures</a>
-
 + <a href="https://github.com/Oleg-Kolosov/CSS-Responsive-CARD">Responsive card</a>
-
 + <a href="https://github.com/Oleg-Kolosov/Golden-Canon-Grid-for-UI-Design">Golden canon grid for UI design</a>
-
 + <a href="https://github.com/Oleg-Kolosov/CSS-Neumorphic-Login-Form-Design">Neumorphic login form design</a>
-
 + <a href="https://github.com/Oleg-Kolosov/Card-Flip-Animation-using-HTML-and-CSS">Card flip animation</a>
-
 + <a href="https://github.com/Oleg-Kolosov/CSS-Glowing-Gradient-Border-Effects">Glowing gradient border effects</a>
-
 + <a href="https://github.com/Oleg-Kolosov/CSS3-Creative-Check-List-Custom-Checkbox-using-CSS">Check list with custom checkbox</a>
-
 + <a href="https://github.com/Oleg-Kolosov/CSS-Custom-Checkbox-Day-Night-Mode">Custom checkbox day || nigth mode</a>
-
 + <a href="https://github.com/Oleg-Kolosov/CSS-Only-Non-Rectangular-Header">Non rectangular header</a>
-
 + <a href="https://github.com/Oleg-Kolosov/Page-Loading-Animation-using-CSS">Loading animation</a>
-
 + <a href="https://github.com/Oleg-Kolosov/Awesome-Text-Animation-using-HTML-and-CSS">Awesome text animation</a>
-
 + <a href="https://github.com/Oleg-Kolosov/CSS3-Glowing-Gradient-Loader-Ring-Animation-Effects">Gradient loader ring animation</a>
-
 + <a href="https://github.com/Oleg-Kolosov/simple-gamburger">Simple gamburger menu</a>
-
 + <a href="https://github.com/Oleg-Kolosov/easy-responsive-webpage">Easy responsive web page</a>
-
 + <a href="https://github.com/Oleg-Kolosov/pure-css-tooltip/tree/master">Pure CSS tooltip</a>
 
 ### 🔮 Basic JS
