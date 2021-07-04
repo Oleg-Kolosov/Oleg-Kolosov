@@ -18,7 +18,7 @@
 ### 📈 Codewars
 <img src='https://www.codewars.com/users/Oleg-Kolosov/badges/large'>
 
-### 👨‍🎓 For students
+### 👨‍🎓 Basic CSS
 
 + <a href="https://github.com/Oleg-Kolosov/Image-Zoom-Hover-Effect">Zoom hover effects</a>
 
