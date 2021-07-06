@@ -42,6 +42,7 @@
 + <a href="https://github.com/Oleg-Kolosov/Color_flipper">Color Flipper</a>
 + <a href="https://github.com/Oleg-Kolosov/Calculator_ES6">Calculator ES6</a>
 + <a href="https://github.com/Oleg-Kolosov/Lorem_generator">Lorem Hipster generator</a>
++ <a href="https://github.com/Oleg-Kolosov/Responsive_slider">Responsive slider</a>
 
 ### 💎 Advanced Feautures
 
