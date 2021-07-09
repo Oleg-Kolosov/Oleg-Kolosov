@@ -47,3 +47,8 @@
 ### 💎 Advanced Feautures
 
 + <a href="https://github.com/Oleg-Kolosov/fun-with-custom-tags-and-shadow-DOM-Experimantal-">Web components and shadow DOM</a>
+
+### 🚀 ES Feautures
+
++ <a href="https://github.com/Oleg-Kolosov/ES_12">ES 12</a>
+
