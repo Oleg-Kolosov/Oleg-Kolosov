@@ -45,7 +45,7 @@
 + <a href="https://github.com/Oleg-Kolosov/Responsive_slider">Responsive slider</a>
 + <a href="https://github.com/Oleg-Kolosov/Custom_Progress_Bar">Custom progress bar</a>
 + <a href="https://github.com/Oleg-Kolosov/Custom_multi-select">Custom multi select</a>
-
++ <a href="https://github.com/Oleg-Kolosov/simple-timer">Simple timer</a>
 
 ### 💎 Advanced Feautures
 
