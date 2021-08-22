@@ -34,6 +34,7 @@
 + <a href="https://github.com/Oleg-Kolosov/simple-gamburger">Simple gamburger menu</a>
 + <a href="https://github.com/Oleg-Kolosov/easy-responsive-webpage">Easy responsive web page</a>
 + <a href="https://github.com/Oleg-Kolosov/pure-css-tooltip/tree/master">Pure CSS tooltip</a>
++ <a href="https://github.com/Oleg-Kolosov/landing-tailwind">Landing page with Tailwind</a>
 
 ### 🔮 Basic JS
 
