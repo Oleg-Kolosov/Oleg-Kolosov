@@ -54,6 +54,7 @@
     <li><a href="https://github.com/Oleg-Kolosov/simple-timer">Simple timer</a></li>
     <li><a href="https://github.com/Oleg-Kolosov/Blurry_loading/tree/master">Blurry Loading...</a></li>
     <li><a href="https://github.com/Oleg-Kolosov/Temperature-converter/tree/master">Temperature converter</a></li>
+    <li><a href="https://github.com/Oleg-Kolosov/Toggle-theme/tree/master">Toggle theme</a></li>    
   </ul>
 </details>
 
