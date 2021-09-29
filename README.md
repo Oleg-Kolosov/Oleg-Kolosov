@@ -56,6 +56,7 @@
     <li><a href="https://github.com/Oleg-Kolosov/Temperature-converter/tree/master">Temperature converter</a></li>
     <li><a href="https://github.com/Oleg-Kolosov/Toggle-theme/tree/master">Toggle theme</a></li>
     <li><a href="https://github.com/Oleg-Kolosov/TIPS-calculator/tree/master">Tips Calculator</a></li>
+    <li><a href="https://github.com/Oleg-Kolosov/Scroll-progress-bar/tree/master">Scroll progress bar component</a></li>
     
   </ul>
 </details>
