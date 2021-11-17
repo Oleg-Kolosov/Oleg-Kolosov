@@ -61,6 +61,13 @@
   </ul>
 </details>
 
+<details><summary><b>🔐 TypeScript</b></summary>
+  
+  <ul>
+    <li><a href="https://github.com/Oleg-Kolosov/typescript-react-todo-app/tree/master">Simple Todo List</a></li>
+  </ul>
+</details>
+
 <details><summary><b>💎 Advanced Feautures</b></summary>
   
   <ul>
@@ -76,3 +83,5 @@
     <li><a href="https://github.com/Oleg-Kolosov/ES_12">ES 12</a></li>
   </ul>
 </details>
+
+
